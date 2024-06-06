@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+    padding: 5% 10%;
+}
+
+#main{
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+}
+#main img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+#preparation{
+    background-color: rgba(255, 105, 180, 0.194);
+    padding: 20px;
+}
+
+#preparation h3{
+    color:palevioletred;
+    padding: 20PX;
+}
+
+
+li{
+    padding-left: 20px;
+}

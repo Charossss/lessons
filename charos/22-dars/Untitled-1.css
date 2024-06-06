@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7CiPNGcnLhO_4eijOyzBK5p5PwdTV_DzJ4g&s');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 45%;
+}
+ul, li{
+    display: block;
+}
+h4{
+    color: blue;
+}
+h5{
+    color:  darkblue;
+}
+h3{
+    color: burlywood;
+}
+h1{
+    color: yellow;
+}
+h2{
+    color: aqua;
+}
+h7{
+    color: blueviolet;
+}
+h6{
+    color: aquamarine;
+}

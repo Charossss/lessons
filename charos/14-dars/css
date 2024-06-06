@@ -1,0 +1,11 @@
+p{
+    background-color: yellow;
+}
+p:hover{
+    cursor:pointer;
+    background-color: red;
+}
+body{
+    background-image: url('https://www.socwall.com');
+    background-repeat:no-repeat ;
+}       
